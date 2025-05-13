@@ -1,0 +1,151 @@
+team,record_type,player,stat_value
+Boston Celtics,Total Points,John Havlicek,26395
+Boston Celtics,Total Assists,Bob Cousy,6945
+Boston Celtics,Total Rebounds,Bill Russell,21620
+Boston Celtics,Total Blocks,Robert Parish,1703
+Boston Celtics,Total Steals,Paul Pierce,1583
+Brooklyn Nets,Total Points,Brook Lopez,10444
+Brooklyn Nets,Total Assists,Jason Kidd,4620
+Brooklyn Nets,Total Rebounds,Buck Williams,7576
+Brooklyn Nets,Total Blocks,Brook Lopez,972
+Brooklyn Nets,Total Steals,Jason Kidd,950
+New York Knicks,Total Points,Patrick Ewing,23665
+New York Knicks,Total Assists,Walt Frazier,4791
+New York Knicks,Total Rebounds,Patrick Ewing,10759
+New York Knicks,Total Blocks,Patrick Ewing,2758
+New York Knicks,Total Steals,Patrick Ewing,1061
+Philadelphia 76Ers,Total Points,Hal Greer,21586
+Philadelphia 76Ers,Total Assists,Maurice Cheeks,6212
+Philadelphia 76Ers,Total Rebounds,Dolph Schayes,11256
+Philadelphia 76Ers,Total Blocks,Julius Erving,1293
+Philadelphia 76Ers,Total Steals,Maurice Cheeks,1942
+Toronto Raptors,Total Points,DeMar DeRozan,13296
+Toronto Raptors,Total Assists,Kyle Lowry,4277
+Toronto Raptors,Total Rebounds,Chris Bosh,4776
+Toronto Raptors,Total Blocks,Chris Bosh,600
+Toronto Raptors,Total Steals,Kyle Lowry,873
+Chicago Bulls,Total Points,Michael Jordan,29277
+Chicago Bulls,Total Assists,Michael Jordan,5012
+Chicago Bulls,Total Rebounds,Michael Jordan,5836
+Chicago Bulls,Total Blocks,Artis Gilmore,1029
+Chicago Bulls,Total Steals,Michael Jordan,2306
+Cleveland Cavaliers,Total Points,LeBron James,23119
+Cleveland Cavaliers,Total Assists,LeBron James,6228
+Cleveland Cavaliers,Total Rebounds,LeBron James,6190
+Cleveland Cavaliers,Total Blocks,Zydrunas Ilgauskas,1269
+Cleveland Cavaliers,Total Steals,LeBron James,1376
+Detroit Pistons,Total Points,Isiah Thomas,18822
+Detroit Pistons,Total Assists,Isiah Thomas,9061
+Detroit Pistons,Total Rebounds,Bill Laimbeer,9430
+Detroit Pistons,Total Blocks,Ben Wallace,1486
+Detroit Pistons,Total Steals,Isiah Thomas,1861
+Indiana Pacers,Total Points,Reggie Miller,25279
+Indiana Pacers,Total Assists,Reggie Miller,4141
+Indiana Pacers,Total Rebounds,Dale Davis,6006
+Indiana Pacers,Total Blocks,Myles Turner,1294
+Indiana Pacers,Total Steals,Reggie Miller,1505
+Milwaukee Bucks,Total Points,Giannis Antetokounmpo,18951
+Milwaukee Bucks,Total Assists,Giannis Antetokounmpo,3940
+Milwaukee Bucks,Total Rebounds,Giannis Antetokounmpo,7902
+Milwaukee Bucks,Total Blocks,Giannis Antetokounmpo,1006
+Milwaukee Bucks,Total Steals,Quinn Buckner,1042
+Atlanta Hawks,Total Points,Dominique Wilkins,23292
+Atlanta Hawks,Total Assists,Trae Young,4042
+Atlanta Hawks,Total Rebounds,Bob Pettit,12849
+Atlanta Hawks,Total Blocks,Tree Rollins,2283
+Atlanta Hawks,Total Steals,Mookie Blaylock,1321
+Charlotte Hornets,Total Points,Kemba Walker,12009
+Charlotte Hornets,Total Assists,Muggsy Bogues,5557
+Charlotte Hornets,Total Rebounds,Emeka Okafor,3516
+Charlotte Hornets,Total Blocks,Alonzo Mourning,684
+Charlotte Hornets,Total Steals,Muggsy Bogues,1067
+Miami Heat,Total Points,Dwyane Wade,21556
+Miami Heat,Total Assists,Dwyane Wade,5310
+Miami Heat,Total Rebounds,Udonis Haslem,5791
+Miami Heat,Total Blocks,Alonzo Mourning,1625
+Miami Heat,Total Steals,Dwyane Wade,1492
+Orlando Magic,Total Points,Dwight Howard,11435
+Orlando Magic,Total Assists,Jameer Nelson,3501
+Orlando Magic,Total Rebounds,Dwight Howard,8072
+Orlando Magic,Total Blocks,Dwight Howard,1344
+Orlando Magic,Total Steals,Nick Anderson,1004
+Washington Wizards,Total Points,Elvin Hayes,15551
+Washington Wizards,Total Assists,John Wall,5282
+Washington Wizards,Total Rebounds,Wes Unseld,13769
+Washington Wizards,Total Blocks,Elvin Hayes,1558
+Washington Wizards,Total Steals,John Wall,976
+Denver Nuggets,Total Points,Alex English,21645
+Denver Nuggets,Total Assists,Nikola Jokić,4784
+Denver Nuggets,Total Rebounds,Nikola Jokić,7386
+Denver Nuggets,Total Blocks,Dikembe Mutombo,1486
+Denver Nuggets,Total Steals,Lafayette Lever,1167
+Minnesota Timberwolves,Total Points,Kevin Garnett,19201
+Minnesota Timberwolves,Total Assists,Kevin Garnett,4216
+Minnesota Timberwolves,Total Rebounds,Kevin Garnett,10718
+Minnesota Timberwolves,Total Blocks,Kevin Garnett,1590
+Minnesota Timberwolves,Total Steals,Kevin Garnett,1315
+Oklahoma City Thunder,Total Points,Russell Westbrook,18859
+Oklahoma City Thunder,Total Assists,Gary Payton,7384
+Oklahoma City Thunder,Total Rebounds,Jack Sikma,7729
+Oklahoma City Thunder,Total Blocks,Serge Ibaka,1300
+Oklahoma City Thunder,Total Steals,Gary Payton,2107
+Portland Trail Blazers,Total Points,Damian Lillard,19376
+Portland Trail Blazers,Total Assists,Terry Porter,5319
+Portland Trail Blazers,Total Rebounds,LaMarcus Aldridge,5434
+Portland Trail Blazers,Total Blocks,Mychal Thompson,768
+Portland Trail Blazers,Total Steals,Clyde Drexler,1795
+Utah Jazz,Total Points,Karl Malone,36374
+Utah Jazz,Total Assists,John Stockton,15806
+Utah Jazz,Total Rebounds,Karl Malone,14601
+Utah Jazz,Total Blocks,Mark Eaton,3064
+Utah Jazz,Total Steals,John Stockton,3265
+Golden State Warriors,Total Points,Stephen Curry,23921
+Golden State Warriors,Total Assists,Stephen Curry,6191
+Golden State Warriors,Total Rebounds,Nate Thurmond,12771
+Golden State Warriors,Total Blocks,Adonal Foyle,1140
+Golden State Warriors,Total Steals,Stephen Curry,1493
+Los Angeles Clippers,Total Points,Randy Smith,12735
+Los Angeles Clippers,Total Assists,Chris Paul,4023
+Los Angeles Clippers,Total Rebounds,DeAndre Jordan,7988
+Los Angeles Clippers,Total Blocks,DeAndre Jordan,1276
+Los Angeles Clippers,Total Steals,Randy Smith,1072
+Los Angeles Lakers,Total Points,Kobe Bryant,33643
+Los Angeles Lakers,Total Assists,Magic Johnson,10141
+Los Angeles Lakers,Total Rebounds,Elgin Baylor,11463
+Los Angeles Lakers,Total Blocks,Kareem Abdul-Jabbar,2694
+Los Angeles Lakers,Total Steals,Kobe Bryant,1944
+Phoenix Suns,Total Points,Walter Davis,15666
+Phoenix Suns,Total Assists,Steve Nash,6997
+Phoenix Suns,Total Rebounds,Alvan Adams,6937
+Phoenix Suns,Total Blocks,Larry Nance,940
+Phoenix Suns,Total Steals,Alvan Adams,1289
+Sacramento Kings,Total Points,Oscar Robertson,22009
+Sacramento Kings,Total Assists,Oscar Robertson,7731
+Sacramento Kings,Total Rebounds,Sam Lacey,9353
+Sacramento Kings,Total Blocks,Sam Lacey,1098
+Sacramento Kings,Total Steals,Sam Lacey,950
+Dallas Mavericks,Total Points,Dirk Nowitzki,31560
+Dallas Mavericks,Total Assists,Derek Harper,5111
+Dallas Mavericks,Total Rebounds,Dirk Nowitzki,11489
+Dallas Mavericks,Total Blocks,Dirk Nowitzki,1281
+Dallas Mavericks,Total Steals,Derek Harper,1551
+Houston Rockets,Total Points,Hakeem Olajuwon,26511
+Houston Rockets,Total Assists,James Harden,4796
+Houston Rockets,Total Rebounds,Hakeem Olajuwon,13382
+Houston Rockets,Total Blocks,Hakeem Olajuwon,3740
+Houston Rockets,Total Steals,Hakeem Olajuwon,2088
+Memphis Grizzlies,Total Points,Mike Conley,11733
+Memphis Grizzlies,Total Assists,Mike Conley,4509
+Memphis Grizzlies,Total Rebounds,Marc Gasol,5942
+Memphis Grizzlies,Total Blocks,Marc Gasol,1135
+Memphis Grizzlies,Total Steals,Mike Conley,1161
+New Orleans Pelicans,Total Points,Anthony Davis,11059
+New Orleans Pelicans,Total Assists,Chris Paul,4228
+New Orleans Pelicans,Total Rebounds,Anthony Davis,4905
+New Orleans Pelicans,Total Blocks,Anthony Davis,1121
+New Orleans Pelicans,Total Steals,Chris Paul,1010
+San Antonio Spurs,Total Points,Tim Duncan,26496
+San Antonio Spurs,Total Assists,Tony Parker,6829
+San Antonio Spurs,Total Rebounds,Tim Duncan,15091
+San Antonio Spurs,Total Blocks,Tim Duncan,3020
+San Antonio Spurs,Total Steals,Manu Ginobili,1392

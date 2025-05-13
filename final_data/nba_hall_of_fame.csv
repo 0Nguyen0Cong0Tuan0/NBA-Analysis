@@ -1,0 +1,373 @@
+team,player,pos,seasons,year_of_induction
+Boston Celtics,Paul Pierce,F,1999-2013,2021
+Boston Celtics,Kevin Garnett,F,2008-2013,2020
+Boston Celtics,Chuck Cooper,F,1951-1954,2019
+Boston Celtics,Paul Westphal,G,1973-1975,2019
+Boston Celtics,Charlie Scott,G,1976-1978,2018
+Boston Celtics,Dino Radja,F-C,1993-1997,2018
+Boston Celtics,Ray Allen,G,2007-2012,2018
+Boston Celtics,Shaquille O'Neal,C,2011,2016
+Boston Celtics,Jo Jo White,G,1970-1979,2015
+Boston Celtics,Gary Payton,G,2005,2013
+Boston Celtics,Artis Gilmore,C,1988,2011
+Boston Celtics,Dennis Johnson,G,1984-1990,2010
+Boston Celtics,Dominique Wilkins,F,1995,2006
+Boston Celtics,Robert Parish,C,1981-1994,2003
+Boston Celtics,Bob McAdoo,C-F,1979,2000
+Boston Celtics,Kevin McHale,F,1981-1993,1999
+Boston Celtics,Arnie Risen,C,1956-1958,1998
+Boston Celtics,Larry Bird,F,1980-1992,1998
+Boston Celtics,Bailey Howell,F,1967-1970,1997
+Boston Celtics,Bill Walton,C,1986-1987,1993
+Boston Celtics,Dave Cowens,C,1971-1980,1991
+Boston Celtics,Tiny Archibald,G,1979-1983,1991
+Boston Celtics,Dave Bing,G,1978,1990
+Boston Celtics,K.C. Jones,G,1959-1967,1989
+Boston Celtics,Clyde Lovellette,C,1963-1964,1988
+Boston Celtics,Bob Houbregs,F,1955,1987
+Boston Celtics,Pete Maravich,G,1980,1987
+Boston Celtics,Tom Heinsohn,F,1957-1965,1986
+Boston Celtics,John Havlicek,F,1963-1978,1984
+Boston Celtics,Sam Jones,G,1958-1969,1984
+Boston Celtics,Frank Ramsey,F,1955-1964,1982
+Boston Celtics,Bill Sharman,G,1952-1961,1976
+Boston Celtics,Bill Russell,C,1957-1969,1975
+Boston Celtics,Bob Cousy,G,1951-1963,1971
+Boston Celtics,Andy Phillip,G,1957-1958,1961
+Boston Celtics,Ed Macauley,C,1951-1956,1960
+Brooklyn Nets,Paul Pierce,F,2014,2021
+Brooklyn Nets,Kevin Garnett,F,2014-2015,2020
+Brooklyn Nets,Jason Kidd,G,2001-2008,2018
+Brooklyn Nets,Maurice Cheeks,G,1992-1993,2018
+Brooklyn Nets,Dikembe Mutombo,C,2003,2015
+Brooklyn Nets,Alonzo Mourning,C,2004-2005,2014
+Brooklyn Nets,Bernard King,F,"1978-1979, 1993",2013
+Brooklyn Nets,Mel Daniels,C,1977,2012
+Brooklyn Nets,Drazen Petrovic,G,1991-1993,2002
+Brooklyn Nets,Bob McAdoo,C-F,1981,2000
+Brooklyn Nets,Julius Erving,F,1974-1976,1993
+Brooklyn Nets,Tiny Archibald,G,1977,1991
+Brooklyn Nets,Rick Barry,F,1971-1972,1987
+New York Knicks,Paul Westphal,G,1982-1983,2019
+New York Knicks,Jason Kidd,G,2012-2013,2018
+New York Knicks,Maurice Cheeks,G,1989-1991,2018
+New York Knicks,Tracy McGrady,G-F,2010,2017
+New York Knicks,Dikembe Mutombo,C,2004,2015
+New York Knicks,Spencer Haywood,F,1976-1979,2015
+New York Knicks,Nat Clifton,F,1952-1957,2014
+New York Knicks,Bernard King,F,1983-1987,2013
+New York Knicks,Richie Guerin,G,1957-1964,2013
+New York Knicks,Patrick Ewing,C,1986-2000,2008
+New York Knicks,Bob McAdoo,C-F,1977-1979,2000
+New York Knicks,Dick McGuire,G,1950-1957,1993
+New York Knicks,Walt Bellamy,C,1966-1969,1993
+New York Knicks,Harry Gallatin,F,1949-1957,1991
+New York Knicks,Earl Monroe,G,1972-1980,1990
+New York Knicks,Walt Frazier,G,1968-1977,1987
+New York Knicks,Bill Bradley,F,1968-1977,1983
+New York Knicks,Dave DeBusschere,F,1969-1974,1983
+New York Knicks,Slater Martin,G,1957,1982
+New York Knicks,Willis Reed,C,1965-1974,1982
+New York Knicks,Jerry Lucas,F,1972-1974,1980
+New York Knicks,Tom Gola,G,1963-1966,1976
+Philadelphia 76Ers,Chris Webber,F,2006-2007,2021
+Philadelphia 76Ers,Toni Kukoc,F,2000-2001,2021
+Philadelphia 76Ers,Bobby Jones,F,1979-1986,2019
+Philadelphia 76Ers,Maurice Cheeks,G,1978-1989,2018
+Philadelphia 76Ers,George McGinnis,F,1975-1978,2017
+Philadelphia 76Ers,Allen Iverson,G,"1997-2007, 2010",2016
+Philadelphia 76Ers,Dikembe Mutombo,C,2001-2002,2015
+Philadelphia 76Ers,Chet Walker,F,1963-1969,2012
+Philadelphia 76Ers,Charles Barkley,F,1985-1992,2006
+Philadelphia 76Ers,Moses Malone,C,"1983-1986, 1994",2001
+Philadelphia 76Ers,Bob McAdoo,C-F,1986,2000
+Philadelphia 76Ers,Bailey Howell,F,1971,1997
+Philadelphia 76Ers,George Yardley,F,1960,1996
+Philadelphia 76Ers,Julius Erving,F,1977-1987,1993
+Philadelphia 76Ers,Billy Cunningham,F,"1966-1972, 1975-1976",1986
+Philadelphia 76Ers,Al Cervi,G,1950-1953,1985
+Philadelphia 76Ers,Hal Greer,G,1959-1973,1982
+Philadelphia 76Ers,Wilt Chamberlain,C,1965-1968,1979
+Philadelphia 76Ers,Dolph Schayes,F,1950-1964,1973
+Toronto Raptors,Chris Bosh,F-C,2004-2010,2021
+Toronto Raptors,Tracy McGrady,G-F,1997-2000,2017
+Toronto Raptors,Hakeem Olajuwon,C,2002,2008
+Chicago Bulls,Dwyane Wade,G,2016-2017,2023
+Chicago Bulls,Pau Gasol,F-C,2014-2016,2023
+Chicago Bulls,Ben Wallace,C-F,2007-2008,2021
+Chicago Bulls,Toni Kukoc,F,1994-2000,2021
+Chicago Bulls,"Bobby ""Slick"" Leonard",G,1962,2014
+Chicago Bulls,Guy Rodgers,G,1967-1968,2014
+Chicago Bulls,Chet Walker,F,1970-1975,2012
+Chicago Bulls,Artis Gilmore,C,"1977-1982, 1988",2011
+Chicago Bulls,Dennis Rodman,F,1996-1998,2011
+Chicago Bulls,Scottie Pippen,F,"1988-1998, 2004",2010
+Chicago Bulls,Michael Jordan,G,"1985-1993, 1995-1998",2009
+Chicago Bulls,Robert Parish,C,1997,2003
+Chicago Bulls,George Gervin,G-F,1986,1996
+Chicago Bulls,Nate Thurmond,C,1975-1976,1985
+Cleveland Cavaliers,Dwyane Wade,G,2017-2018,2023
+Cleveland Cavaliers,Ben Wallace,C-F,2008-2009,2021
+Cleveland Cavaliers,Shaquille O'Neal,C,2010,2016
+Cleveland Cavaliers,Lenny Wilkens,G,1973-1974,1989
+Cleveland Cavaliers,Walt Frazier,G,1978-1980,1987
+Cleveland Cavaliers,Nate Thurmond,C,1976-1977,1985
+Detroit Pistons,Ben Wallace,C-F,"2001-2006, 2010-2012",2021
+Detroit Pistons,Chris Webber,F,2007,2021
+Detroit Pistons,Chuck Cooper,F,1956,2019
+Detroit Pistons,Grant Hill,F,1994-2000,2018
+Detroit Pistons,Tracy McGrady,G-F,2010-2011,2017
+Detroit Pistons,Allen Iverson,G,2009,2016
+Detroit Pistons,Nat Clifton,F,1952-1957,2014
+Detroit Pistons,Dennis Rodman,F,1987-1993,2011
+Detroit Pistons,Adrian Dantley,F,1987-1989,2008
+Detroit Pistons,Joe Dumars,G,1986-1996,2006
+Detroit Pistons,Bob McAdoo,C-F,1980-1981,2000
+Detroit Pistons,Isiah Thomas,G,1982-1994,2000
+Detroit Pistons,Bailey Howell,F,1961-1964,1997
+Detroit Pistons,George Yardley,F,1954-1959,1996
+Detroit Pistons,Dick McGuire,G,1959-1960,1993
+Detroit Pistons,Walt Bellamy,C,1969-1970,1993
+Detroit Pistons,Bob Lanier,C,1971-1980,1992
+Detroit Pistons,Harry Gallatin,F,1958,1991
+Detroit Pistons,Dave Bing,G,1967-1975,1990
+Detroit Pistons,Bob Houbregs,F,1955-1958,1987
+Detroit Pistons,Dave DeBusschere,F,1963-1969,1983
+Detroit Pistons,Andy Phillip,G,1953-1956,1961
+Indiana Pacers,Tim Hardaway,G,2003,2022
+Indiana Pacers,George McGinnis,F,"1972-1975, 1980-1982",2017
+Indiana Pacers,"Bobby ""Slick"" Leonard",Coach,1969-1980,2014
+Indiana Pacers,Roger Brown,F,"1968-1974, 1976",2013
+Indiana Pacers,Mel Daniels,C,1969-1974,2012
+Indiana Pacers,Reggie Miller,G,1988-2005,2012
+Indiana Pacers,Chris Mullin,F,1998-2000,2011
+Indiana Pacers,Gus Johnson,F,1973,2010
+Indiana Pacers,Adrian Dantley,F,1978,2008
+Indiana Pacers,Alex English,F,1979-1980,1997
+Milwaukee Bucks,Pau Gasol,F-C,2018-2019,2023
+Milwaukee Bucks,Bob Dandridge,F,"1970-1977, 1982",2021
+Milwaukee Bucks,Toni Kukoc,F,2003-2006,2021
+Milwaukee Bucks,Jack Sikma,C,1987-1991,2019
+Milwaukee Bucks,Sidney Moncrief,G,1980-1989,2019
+Milwaukee Bucks,Ray Allen,G,1996-2003,2018
+Milwaukee Bucks,Guy Rodgers,G,1969-1970,2014
+Milwaukee Bucks,Gary Payton,G,2003,2013
+Milwaukee Bucks,Adrian Dantley,F,1991,2008
+Milwaukee Bucks,Moses Malone,C,1992-1993,2001
+Milwaukee Bucks,Alex English,F,1977-1978,1997
+Milwaukee Bucks,Kareem Abdul-Jabbar,C,1970-1975,1995
+Milwaukee Bucks,Bob Lanier,C,1980-1984,1992
+Milwaukee Bucks,Dave Cowens,C,1983,1991
+Milwaukee Bucks,Tiny Archibald,G,1984,1991
+Milwaukee Bucks,Oscar Robertson,G,1971-1974,1980
+Atlanta Hawks,Lou Hudson,G-F,1967-1977,2022
+Atlanta Hawks,Toni Kukoc,F,2001-2002,2021
+Atlanta Hawks,Chuck Cooper,F,1955-1956,2019
+Atlanta Hawks,Sidney Moncrief,G,1991,2019
+Atlanta Hawks,Maurice Cheeks,G,1991-1992,2018
+Atlanta Hawks,Tracy McGrady,G-F,2011-2012,2017
+Atlanta Hawks,Zelmo Beaty,C,1963-1968,2016
+Atlanta Hawks,Dikembe Mutombo,C,1997-2001,2015
+Atlanta Hawks,Richie Guerin,G,1964-1970,2013
+Atlanta Hawks,Dominique Wilkins,F,1983-1994,2006
+Atlanta Hawks,Moses Malone,C,1989-1991,2001
+Atlanta Hawks,Walt Bellamy,C,1970-1974,1993
+Atlanta Hawks,Connie Hawkins,F,1976,1992
+Atlanta Hawks,Lenny Wilkens,G,1961-1968,1989
+Atlanta Hawks,Clyde Lovellette,C,1959-1962,1988
+Atlanta Hawks,Bob Houbregs,F,1954,1987
+Atlanta Hawks,Pete Maravich,G,1971-1974,1987
+Atlanta Hawks,Slater Martin,G,1957-1960,1982
+Atlanta Hawks,Cliff Hagan,F,1957-1966,1978
+Atlanta Hawks,Bob Pettit,F,1955-1965,1971
+Atlanta Hawks,Ed Macauley,C,1957-1959,1960
+Charlotte Hornets,Tony Parker,G,2018-2019,2023
+Charlotte Hornets,Vlade Divac,C,1997-1998,2019
+Charlotte Hornets,Alonzo Mourning,C,1993-1995,2014
+Charlotte Hornets,Robert Parish,C,1995-1996,2003
+Miami Heat,Dwyane Wade,G,"2003-2016, 2017-2019",2023
+Miami Heat,Tim Hardaway,G,1996-2001,2022
+Miami Heat,Chris Bosh,F-C,2011-2017,2021
+Miami Heat,Ray Allen,G,2012-2014,2018
+Miami Heat,Shaquille O'Neal,C,2005-2008,2016
+Miami Heat,Alonzo Mourning,C,"1996-2007, 2008",2014
+Miami Heat,Gary Payton,G,2006-2007,2013
+Orlando Magic,Ben Wallace,C-F,2000,2021
+Orlando Magic,Grant Hill,F,2000-2007,2018
+Orlando Magic,Tracy McGrady,G-F,2000-2004,2017
+Orlando Magic,Shaquille O'Neal,C,1993-1996,2016
+Orlando Magic,Patrick Ewing,C,2002,2008
+Orlando Magic,Dominique Wilkins,F,1999,2006
+Washington Wizards,Ben Wallace,C-F,1997-1999,2021
+Washington Wizards,Bob Dandridge,F,1978-1981,2021
+Washington Wizards,Chris Webber,F,1995-1998,2021
+Washington Wizards,Paul Pierce,F,2015,2021
+Washington Wizards,Spencer Haywood,F,1982-1983,2015
+Washington Wizards,Mitch Richmond,G,1999-2001,2014
+Washington Wizards,Bernard King,F,1988-1991,2013
+Washington Wizards,Ralph Sampson,C,1992,2012
+Washington Wizards,Gus Johnson,F,1964-1972,2010
+Washington Wizards,Michael Jordan,G,2002-2003,2009
+Washington Wizards,Moses Malone,C,1987-1988,2001
+Washington Wizards,Bailey Howell,F,1965-1966,1997
+Washington Wizards,Walt Bellamy,C,1962-1966,1993
+Washington Wizards,Dave Bing,G,1976-1977,1990
+Washington Wizards,Earl Monroe,G,1968-1972,1990
+Washington Wizards,Elvin Hayes,F,1973-1981,1990
+Washington Wizards,Wes Unseld,C,1969-1981,1988
+Denver Nuggets,Tim Hardaway,G,2002,2022
+Denver Nuggets,Bobby Jones,F,1975-1978,2019
+Denver Nuggets,Charlie Scott,G,1979-1980,2018
+Denver Nuggets,George McGinnis,F,1978-1980,2017
+Denver Nuggets,Allen Iverson,G,2007-2009,2016
+Denver Nuggets,Dikembe Mutombo,C,1992-1996,2015
+Denver Nuggets,Spencer Haywood,F,1970,2015
+Denver Nuggets,Sarunas Marciulionis,G,1997,2014
+Denver Nuggets,Alex English,F,1980-1990,1997
+Denver Nuggets,David Thompson,G,1976-1982,1996
+Denver Nuggets,Dan Issel,C,1976-1985,1993
+Minnesota Timberwolves,Kevin Garnett,F,"1996-2007, 2015-2016",2020
+Oklahoma City Thunder,Jack Sikma,C,1978-1986,2019
+Oklahoma City Thunder,Paul Westphal,G,1981,2019
+Oklahoma City Thunder,Ray Allen,G,2002-2007,2018
+Oklahoma City Thunder,Spencer Haywood,F,1971-1975,2015
+Oklahoma City Thunder,Sarunas Marciulionis,G,1995,2014
+Oklahoma City Thunder,Gary Payton,G,1991-2003,2013
+Oklahoma City Thunder,Dennis Johnson,G,1977-1980,2010
+Oklahoma City Thunder,Patrick Ewing,C,2001,2008
+Oklahoma City Thunder,David Thompson,G,1983-1984,1996
+Oklahoma City Thunder,Lenny Wilkens,G,1969-1972,1989
+Portland Trail Blazers,Arvydas Sabonis,C,1996-2003,2011
+Portland Trail Blazers,Scottie Pippen,F,2000-2003,2010
+Portland Trail Blazers,Clyde Drexler,G,1984-1995,2004
+Portland Trail Blazers,Drazen Petrovic,G,1990-1991,2002
+Portland Trail Blazers,Bill Walton,C,1975-1978,1993
+Portland Trail Blazers,Lenny Wilkens,G,1975,1989
+Utah Jazz,Bernard King,F,1980,2013
+Utah Jazz,Karl Malone,F,1986-2003,2010
+Utah Jazz,John Stockton,G,1985-2003,2009
+Utah Jazz,Adrian Dantley,F,1980-1986,2008
+Utah Jazz,Gail Goodrich,G,1977-1979,1996
+Utah Jazz,Walt Bellamy,C,1975,1993
+Utah Jazz,Pete Maravich,G,1975-1980,1987
+Golden State Warriors,Tim Hardaway,G,1990-1996,2022
+Golden State Warriors,Chris Webber,F,"1994, 2008",2021
+Golden State Warriors,Jo Jo White,G,1979-1980,2015
+Golden State Warriors,Guy Rodgers,G,1959-1966,2014
+Golden State Warriors,Mitch Richmond,G,1989-1991,2014
+Golden State Warriors,Sarunas Marciulionis,G,1990-1993,2014
+Golden State Warriors,Bernard King,F,1981-1982,2013
+Golden State Warriors,Jamaal Wilkes,F,1975-1977,2012
+Golden State Warriors,Ralph Sampson,C,1988-1989,2012
+Golden State Warriors,Chris Mullin,F,"1986-1997, 2001",2011
+Golden State Warriors,Robert Parish,C,1977-1980,2003
+Golden State Warriors,Neil Johnston,C,1952-1959,1990
+Golden State Warriors,Rick Barry,F,"1966-1967, 1973-1978",1987
+Golden State Warriors,Nate Thurmond,C,1964-1974,1985
+Golden State Warriors,Jerry Lucas,F,1970-1971,1980
+Golden State Warriors,Wilt Chamberlain,C,1960-1965,1979
+Golden State Warriors,Joe Fulks,F,1947-1954,1978
+Golden State Warriors,Paul Arizin,F,"1951-1952, 1955-1962",1978
+Golden State Warriors,Tom Gola,G,"1956, 1958-1963",1976
+Golden State Warriors,Andy Phillip,G,1951-1953,1961
+Los Angeles Clippers,Paul Pierce,F,2016-2017,2021
+Los Angeles Clippers,Grant Hill,F,2012-2013,2018
+Los Angeles Clippers,Jamaal Wilkes,F,1986,2012
+Los Angeles Clippers,Adrian Dantley,F,1977,2008
+Los Angeles Clippers,Dominique Wilkins,F,1994,2006
+Los Angeles Clippers,Moses Malone,C,1977,2001
+Los Angeles Clippers,Bob McAdoo,C-F,1973-1977,2000
+Los Angeles Clippers,Bill Walton,C,1980-1985,1993
+Los Angeles Lakers,Pau Gasol,F-C,2007-2014,2023
+Los Angeles Lakers,Lou Hudson,G-F,1978-1979,2022
+Los Angeles Lakers,Kobe Bryant,G,1997-2016,2020
+Los Angeles Lakers,Vlade Divac,C,"1990-1996, 2005",2019
+Los Angeles Lakers,Charlie Scott,G,1978,2018
+Los Angeles Lakers,Steve Nash,G,2012-2014,2018
+Los Angeles Lakers,Shaquille O'Neal,C,1997-2004,2016
+Los Angeles Lakers,Zelmo Beaty,C,1975,2016
+Los Angeles Lakers,Spencer Haywood,F,1980,2015
+Los Angeles Lakers,"Bobby ""Slick"" Leonard",G,1957-1961,2014
+Los Angeles Lakers,Mitch Richmond,G,2002,2014
+Los Angeles Lakers,Gary Payton,G,2004,2013
+Los Angeles Lakers,Jamaal Wilkes,F,1978-1985,2012
+Los Angeles Lakers,Dennis Rodman,F,1999,2011
+Los Angeles Lakers,Karl Malone,F,2004,2010
+Los Angeles Lakers,Adrian Dantley,F,1978-1979,2008
+Los Angeles Lakers,James Worthy,F,1983-1994,2003
+Los Angeles Lakers,Magic Johnson,G,"1980-1991, 1996",2002
+Los Angeles Lakers,Bob McAdoo,C-F,1982-1985,2000
+Los Angeles Lakers,Gail Goodrich,G,"1966-1968, 1971-1976",1996
+Los Angeles Lakers,Kareem Abdul-Jabbar,C,1976-1989,1995
+Los Angeles Lakers,Vern Mikkelsen,F,1950-1959,1995
+Los Angeles Lakers,Connie Hawkins,F,1974-1975,1992
+Los Angeles Lakers,Clyde Lovellette,C,1954-1957,1988
+Los Angeles Lakers,Slater Martin,G,1950-1956,1982
+Los Angeles Lakers,Jerry West,G,1961-1974,1980
+Los Angeles Lakers,Wilt Chamberlain,C,1969-1973,1979
+Los Angeles Lakers,Jim Pollard,F,1949-1955,1978
+Los Angeles Lakers,Elgin Baylor,F,1959-1972,1977
+Los Angeles Lakers,George Mikan,C,1949-1956,1959
+Phoenix Suns,Paul Westphal,G,"1976-1980, 1984",2019
+Phoenix Suns,Charlie Scott,G,1971-1975,2018
+Phoenix Suns,Grant Hill,F,2007-2012,2018
+Phoenix Suns,Jason Kidd,G,1996-2001,2018
+Phoenix Suns,Steve Nash,G,"1996-1998, 2004-2012",2018
+Phoenix Suns,Shaquille O'Neal,C,2008-2009,2016
+Phoenix Suns,Dennis Johnson,G,1981-1983,2010
+Phoenix Suns,Gus Johnson,F,1973,2010
+Phoenix Suns,Charles Barkley,F,1993-1996,2006
+Phoenix Suns,Gail Goodrich,G,1969-1970,1996
+Phoenix Suns,Connie Hawkins,F,1970-1974,1992
+Sacramento Kings,Chris Webber,F,1999-2005,2021
+Sacramento Kings,Vlade Divac,C,1999-2004,2019
+Sacramento Kings,Jo Jo White,G,1981,2015
+Sacramento Kings,Guy Rodgers,G,1968,2014
+Sacramento Kings,Mitch Richmond,G,1992-1998,2014
+Sacramento Kings,Sarunas Marciulionis,G,1996,2014
+Sacramento Kings,Ralph Sampson,C,1990-1991,2012
+Sacramento Kings,Maurice Stokes,F,1956-1958,2004
+Sacramento Kings,Arnie Risen,C,1949-1955,1998
+Sacramento Kings,Tiny Archibald,G,1971-1976,1991
+Sacramento Kings,Clyde Lovellette,C,1958,1988
+Sacramento Kings,Bobby Wanzer,G,1949-1957,1987
+Sacramento Kings,Jack Twyman,F,1956-1966,1983
+Sacramento Kings,Jerry Lucas,F,1964-1970,1980
+Sacramento Kings,Oscar Robertson,G,1961-1970,1980
+Sacramento Kings,Bob Cousy,G,1970,1971
+Sacramento Kings,Bob Davies,G,1949-1955,1970
+Dallas Mavericks,Dirk Nowitzki,F-C,1998-2019,2023
+Dallas Mavericks,Tim Hardaway,G,2002,2022
+Dallas Mavericks,Jason Kidd,G,"1994-1997, 2007-2012",2018
+Dallas Mavericks,Steve Nash,G,1998-2004,2018
+Dallas Mavericks,Dennis Rodman,F,2000,2011
+Dallas Mavericks,Adrian Dantley,F,1989-1990,2008
+Dallas Mavericks,Alex English,F,1991,1997
+Houston Rockets,Tracy McGrady,G-F,2004-2010,2017
+Houston Rockets,Yao Ming,C,2003-2011,2016
+Houston Rockets,Dikembe Mutombo,C,2005-2009,2015
+Houston Rockets,Ralph Sampson,C,1984-1988,2012
+Houston Rockets,Scottie Pippen,F,1999,2010
+Houston Rockets,Hakeem Olajuwon,C,1985-2001,2008
+Houston Rockets,Charles Barkley,F,1997-2000,2006
+Houston Rockets,Clyde Drexler,G,1995-1998,2004
+Houston Rockets,Moses Malone,C,1977-1982,2001
+Houston Rockets,Calvin Murphy,G,1971-1983,1993
+Houston Rockets,Elvin Hayes,F,"1969-1972, 1982-1984",1990
+Houston Rockets,Rick Barry,F,1979-1980,1987
+Memphis Grizzlies,Pau Gasol,F-C,2001-2008,2023
+Memphis Grizzlies,Allen Iverson,G,2010,2016
+New Orleans Pelicans,Spencer Haywood,F,1979,2015
+San Antonio Spurs,Pau Gasol,F-C,2016-2019,2023
+San Antonio Spurs,Tony Parker,G,2001-2018,2023
+San Antonio Spurs,Manu Ginobili,G,2003-2018,2022
+San Antonio Spurs,Tim Duncan,F-C,1998-2016,2020
+San Antonio Spurs,Maurice Cheeks,G,1989-1990,2018
+San Antonio Spurs,Louie Dampier,G,1977-1979,2015
+San Antonio Spurs,Artis Gilmore,C,1983-1987,2011
+San Antonio Spurs,Dennis Rodman,F,1994-1995,2011
+San Antonio Spurs,David Robinson,C,1990-2003,2009
+San Antonio Spurs,Dominique Wilkins,F,1997,2006
+San Antonio Spurs,Moses Malone,C,1995,2001
+San Antonio Spurs,George Gervin,G-F,1974-1985,1996
+San Antonio Spurs,Cliff Hagan,F,1968-1970,1978
